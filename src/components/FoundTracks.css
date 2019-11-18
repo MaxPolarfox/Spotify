@@ -1,0 +1,13 @@
+.foundTracks {
+  color: white;
+}
+
+.singleTrack {
+  display: flex;
+  align-items: flex-end;
+}
+
+.iconify {
+  height: 30px;
+  width: 30px
+}

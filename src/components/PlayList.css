@@ -1,0 +1,22 @@
+.playlistLink {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  color: white;
+}
+
+.playlistImg {
+  height: 10%;
+  width: 10%;
+}
+
+.icon {
+  width: 30px;
+height: 30px;
+}
+
+
+.singleTrack {
+  display: flex;
+  align-items: flex-end;
+}
